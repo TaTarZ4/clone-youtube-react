@@ -4,5 +4,5 @@
 # can change video 
 
 <br>
-<img src="./build/1.png" alt="Alt text" title="Optional title"><br>
-<img src="./build/2.png" alt="Alt text" title="Optional title">
+<img src="./public/1.png" alt="Alt text" title="Optional title"><br>
+<img src="./public/2.png" alt="Alt text" title="Optional title">
