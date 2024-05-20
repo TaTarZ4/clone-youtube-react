@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name" : "koyuchi",
+        "followers" : 4090 ,
+        "video" : 80,
+        "profileImage" : "https://yt3.googleusercontent.com/OkxavYgCpGQj5Y_liTJnoJbAvpRcnXSzScHe9zTei7oWBpkn0xD-iH-GMHXp6fsZa8M_HmbW8g=s176-c-k-c0x00ffffff-no-rj",
+        "backgroundImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEuvvmW-81JFp3B3spxlsfHtQDD7uoxO6-g&s",
+        "about" : "Welcome to our channel! Dive into the soothing sounds of jazzy hiphop lofi beats, where we curate and share original tracks crafted to elevate your mood and relax your soul. Join us on a musical journey through the fusion of smooth jazz melodies, laid-back hiphop rhythms, and the tranquil vibes of lofi production. Sit back, unwind, and let our carefully curated selection of tracks transport you to a realm of tranquility and creativity. Subscribe now to stay updated on our latest releases and immerse yourself in the world of jazzy hiphop lofi bliss."
+    },
+    {
+        "id" : 2,
+        "name" : "HEARTROCKER",
+        "followers" : 8844252,
+        "video" : 2700,
+        "profileImage" : "https://yt3.googleusercontent.com/ytc/AIdro_l-OPS09OHlMbagzmGyYwW21KStprDhJoT4Znw19oRwdQs=s176-c-k-c0x00ffffff-no-rj",
+        "backgroundImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbn9hskMGhzUvwn20ci4E_jkVzWKcJqDA-kQ&s",
+        "about" : "ยินดีต้อนรับทุกท่านครับ ;) ช่องสำหรับคอเกม และผู้ที่อยากได้รอยยิ้ม"
+    },
+    {
+        "id" : 3,
+        "name" : "9arm",
+        "followers" : 1072569,
+        "video" : 757,
+        "profileImage" : "https://yt3.googleusercontent.com/_Uvs_F-6x6mRRz-obMAAYcWfPc0pNJgI5uCkSxjhbEqaHtmjQciLhiGX_j8ilPehqeRqKSNXvg=s176-c-k-c0x00ffffff-no-rj",
+        "backgroundImage" : "https://yt3.googleusercontent.com/7JWUM5YnlGEEsDHEjpGwdzZgAzx_dHhQhxBKlNDQnhRPklj3Ba_gFte3oxfxbcrXozsRgQjR-Wo=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+        "about" : "นายอาร์มเป็นคนชอบเล่าเรื่องเทคแบบย่อยง่ายๆ"
+    },
+    {
+        "id" : 4,
+        "name" : "แมวพิมพ์ [ Vtuber แปลไทย ]",
+        "followers" : 83625 ,
+        "video" : 1515,
+        "profileImage" : "https://yt3.googleusercontent.com/ytc/AIdro_liB5Q0jIPRf-6PMbi-ByEM6vz9myk5lITq6zrLCwelYSU=s176-c-k-c0x00ffffff-no-rj",
+        "backgroundImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHEuvvmW-81JFp3B3spxlsfHtQDD7uoxO6-g&s",
+        "about" : "👑 ช่องนี้ '' แมวพิมพ์ ! '' จะแปลเกี่ยวกับ Hololive JP 🎌 เป็นหลัก และ แปล Vtuber ต่าง ๆ ที่น่าสนใจอีกมากมายเมี๊ยว ( •̀ω •́ ) 👑🎌 ถ้าชอบ สนับสนุนช่องได้ ง่าย ๆ ด้วยการ กดไลค์ กดแชร์  กดติดตาม 🎌"
+    }
+]

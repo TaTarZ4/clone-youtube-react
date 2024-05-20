@@ -1,45 +1,182 @@
 [
     {
         "id" : 1,
-        "tittle" : "Kami カミ ☯ Japanese Lofi HipHop Mix" ,
-        "video" : "https://www.youtube.com/embed/goxmvGJkoi0?si=R_IkHafSs6Slkbmk",
-        "image" : "https://i.ytimg.com/vi/goxmvGJkoi0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5Hpz-kcww3maEdn4Bl0-VSgPGVQ"
+        "tittle" : "Relaxing LoFi Chinese Hip-Hop Music / Chill Oriental BGM Mix for Work & Study" ,
+        "video" : "https://www.youtube.com/embed/dRlqLoQUJco",
+        "videoShort" : "https://i.ytimg.com/vi/dRlqLoQUJco/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6NpQVu9MzEw0bMU602Z-oE-0f5Q",
+        "image" : "https://i3.ytimg.com/vi/dRlqLoQUJco/maxresdefault.jpg",
+        "creator" : 1,
+        "detail" : {
+            "view" : 36625,
+            "like" : 131,
+            "dislike" : 0,
+            "date" : "05/03/2024",
+            "description" : "On my channel, I mainly post Japanese Lo-Fi, Chinese Lo-Fi, and Jazzy Lo-Fi HipHop tracks. I would be glad if you could listen to them during work, study, or when you want to relax. I might not be fluent in English, so I apologize if communication isn't perfect, but thank you for your understanding!"
+        }
     },
     {
         "id" : 2,
-        "tittle" : "Kimiko 喜美子 ☯ Japanese Lofi HipHop Mix" ,
-        "video" : "https://www.youtube.com/embed/0KZ_YVexrKA",
-        "image" : "https://i.ytimg.com/vi/0KZ_YVexrKA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYwQ7G-mUDzDr9pzBT-fUXtr6Ikg"
+        "tittle" : "榛名 LoFi Japanese HipHop Music / Traditional Japan Beats Mix for Work & Study" ,
+        "video" : "https://www.youtube.com/embed/Be3WVIJafj4",
+        "videoShort" : "https://i.ytimg.com/an_webp/Be3WVIJafj4/mqdefault_6s.webp?du=3000&sqp=CP7ZlrIG&rs=AOn4CLA97O8bmjC4Kt5VjIn7q4TeXGoG5g",
+        "image" : "https://i3.ytimg.com/vi/Be3WVIJafj4/maxresdefault.jpg",
+        "creator" : 1,
+        "detail" : {
+            "view" : 822,
+            "like" : 25,
+            "dislike" : 0,
+            "date" : "05/15/2024",
+            "description" : "On my channel, I mainly post Japanese Lo-Fi, Chinese Lo-Fi, and Jazzy Lo-Fi HipHop tracks. I would be glad if you could listen to them during work, study, or when you want to relax. I might not be fluent in English, so I apologize if communication isn't perfect, but thank you for your understanding!"
+        }
     },
     {
         "id" : 3,
-        "tittle" : "ZETSU ☯︎ Japanese Lofi HipHop Mix" ,
-        "video" : "https://www.youtube.com/embed/dusfmL_bm1o",
-        "image" : "https://i.ytimg.com/vi/dusfmL_bm1o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClaL3Uxe12zy-JMsEvebDAU22YSw"
+        "tittle" : "JAPANESE LOFI Hip-Hop Chill Music / work study with Samurai beats" ,
+        "video" : "https://www.youtube.com/embed/BebsxJ-RZak",
+        "videoShort" : "https://i.ytimg.com/an_webp/BebsxJ-RZak/mqdefault_6s.webp?du=3000&sqp=CJDIlrIG&rs=AOn4CLCSB98ON6Z_Kx-on4QsgXOwTHMyBQ",
+        "image" : "https://i3.ytimg.com/vi/BebsxJ-RZak/maxresdefault.jpg",
+        "creator" : 1,
+        "detail" : {
+            "view" : 764,
+            "like" : 33,
+            "dislike" : 0,
+            "date" : "04/12/2024",
+            "description" : "On my channel, I mainly post Japanese Lo-Fi, Chinese Lo-Fi, and Jazzy Lo-Fi HipHop tracks. I would be glad if you could listen to them during work, study, or when you want to relax. I might not be fluent in English, so I apologize if communication isn't perfect, but thank you for your understanding!"
+        }
     },
     {
         "id" : 4,
-        "tittle" : "Relaxing Sleep Music for Stress Relief & Insomnia - Peaceful Relaxing Music, Heals the Mind, Body" ,
-        "video" : "https://www.youtube.com/embed/tmiNgebd1zw",
-        "image" : "https://i.ytimg.com/vi/tmiNgebd1zw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGkWhWdsb3jmCNzH_yWP_yXyZ6AQ"
+        "tittle" : "คุณแม่ Pekora กลับมาอีกครั้ง แต่ถูกลูกสาวปลอมตัวมาหลอกแบบแนบเนียน !? [ Vtuber ซับไทย ]" ,
+        "video" : "https://www.youtube.com/embed/xx_Of8hO_MY",
+        "videoShort" : "https://i.ytimg.com/an_webp/xx_Of8hO_MY/mqdefault_6s.webp?du=3000&sqp=CIDelrIG&rs=AOn4CLCAFCWSpdzQiOrE9N3B6Vjx4uyYCA",
+        "image" : "https://i3.ytimg.com/vi/xx_Of8hO_MY/maxresdefault.jpg",
+        "creator" : 4,
+        "detail" : {
+            "view" : 242424,
+            "like" : 1300,
+            "dislike" : 0,
+            "date" : "05/13/2024",
+            "description" : "mama pekora กลับมาอีกครั้งแต่โดน pekora ปลอมตัวมาให้ตกใจซะก่อน"
+        }
     },
     {
         "id" : 5,
-        "tittle" : "Fantasy Medieval/Tavern Music - Celtic Music, Tavern Ambience, Relaxing Music" ,
-        "video" : "https://www.youtube.com/embed/0wIC1_wG7_o",
-        "image" : "https://i.ytimg.com/an_webp/0wIC1_wG7_o/mqdefault_6s.webp?du=3000&sqp=CP7hxK8G&rs=AOn4CLCV92w5V0jAoT-Y1D730DTkccYtVw"
+        "tittle" : "เมื่อ พูรุรุ ที่เป็นรุ่นพี่ของ ดิตโตะ ได้เห็นรุ่นน้องของตัวเองตอนโกรธครั้งแรก ! [ Vtuber ซับไทย ]" ,
+        "video" : "https://www.youtube.com/embed/WzEIECDpvZM",
+        "videoShort" : "https://i.ytimg.com/an_webp/WzEIECDpvZM/mqdefault_6s.webp?du=3000&sqp=CNyvlrIG&rs=AOn4CLBiOYeB0xMcX3o_wHxWlTct_x41eA",
+        "image" : "https://i3.ytimg.com/vi/WzEIECDpvZM/maxresdefault.jpg",
+        "creator" : 4,
+        "detail" : {
+            "view" : 22200,
+            "like" : 881,
+            "dislike" : 0,
+            "date" : "05/05/2024",
+            "description" : "Pururu เห็น dtto โกรธครั้งแรก !"
+        }
     },
     {
         "id" : 6,
-        "tittle" : "Dreamy Japan Spring 🌙 Lofi Chill Beats for a Tranquil Spring Evening 🌸 Cherry Blossom" ,
-        "video" : "https://www.youtube.com/embed/k3SADOrSmo0",
-        "image" : "https://i.ytimg.com/an_webp/k3SADOrSmo0/mqdefault_6s.webp?du=3000&sqp=CL_pxK8G&rs=AOn4CLDifOwDo2o6hVOOQS0IzRp23XNFlA"
+        "tittle" : "ดิตโตะ ตั้งใจจะสอนคำใหม่ให้โคฮาคุ แต่คำที่พูดออกมามันแปลกๆ [ Vtuber ซับไทย ]" ,
+        "video" : "https://www.youtube.com/embed/YHWZ7BaH-DI",
+        "videoShort" : "https://i.ytimg.com/an_webp/YHWZ7BaH-DI/mqdefault_6s.webp?du=3000&sqp=CO60lrIG&rs=AOn4CLCENLRVrkxXqInhoC_J2q0v3ofpVA",
+        "image" : "https://i3.ytimg.com/vi/YHWZ7BaH-DI/maxresdefault.jpg",
+        "creator" : 4,
+        "detail" : {
+            "view" : 25443,
+            "like" : 1100,
+            "dislike" : 0,
+            "date" : "04/12/2024",
+            "description" : "dtto สอนภาษาไทยให้ kohaku แต่เธอกลับพูดอีกคำแทน"
+        }
     },
     {
         "id" : 7,
-        "tittle" : "Restful Forest 🍃 Chill Lofi Beats" ,
-        "video" : "https://www.youtube.com/embed/JDBccv5-6h8",
-        "image" : "https://i.ytimg.com/vi/JDBccv5-6h8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAvLpK5wQeRUf8zXIkStIbKKSk3cg"
-    }
-    
+        "tittle" : "ทวงคืนโลกใบเดิม | Stellar Blade - Part 1" ,
+        "video" : "https://www.youtube.com/embed/uH2r_fOYz_Y",
+        "videoShort" : "https://i.ytimg.com/an_webp/uH2r_fOYz_Y/mqdefault_6s.webp?du=3000&sqp=CM68lrIG&rs=AOn4CLD4Z4JtRm5UbfJLPq3aYIu3nZG2pw",
+        "image" : "https://i3.ytimg.com/vi/uH2r_fOYz_Y/maxresdefault.jpg",
+        "creator" : 2,
+        "detail" : {
+            "view" : 621258,
+            "like" : 19228,
+            "dislike" : 0,
+            "date" : "05/02/2024",
+            "description" : "หางม้าผจญภัยไร้พรมแดนซีซั่น1 อย่าลืมกดติดตามและกดกระดิ่งไว้ด้วยนะครับ เดี๋ยวพลาดคลิปใหม่ๆ นะ"
+        }
+    },
+    {
+        "id" : 8,
+        "tittle" : "สตรีมเมอร์เจอหลอน | Parasocial パラソーシャル" ,
+        "video" : "https://www.youtube.com/embed/3CL9PBAy16g",
+        "videoShort" : "https://i.ytimg.com/an_webp/3CL9PBAy16g/mqdefault_6s.webp?du=3000&sqp=CKC1lrIG&rs=AOn4CLB6JhQDkG2ogz47ukPc7hI-swjg-g",
+        "image" : "https://i3.ytimg.com/vi/3CL9PBAy16g/maxresdefault.jpg",
+        "creator" : 2,
+        "detail" : {
+            "view" : 1953289,
+            "like" : 63128,
+            "dislike" : 0,
+            "date" : "04/16/2024",
+            "description" : "การสตรีมจะไม่ใช่เซฟโซนอีกต่อไป เพราะลำไยไม่ใช่ลองกอง อย่าลืมกดติดตามและกดกระดิ่งไว้ด้วยนะครับ เดี๋ยวพลาดคลิปใหม่ๆ นะ"
+        }
+    },
+    {
+        "id" : 9,
+        "tittle" : "รถไฟสะพรึง | Train Depart" ,
+        "video" : "https://www.youtube.com/embed/LqVACgmhJpE",
+        "videoShort" : "https://i.ytimg.com/an_webp/LqVACgmhJpE/mqdefault_6s.webp?du=3000&sqp=CK7KlrIG&rs=AOn4CLAv35OGvFyBEzCjioyuvxFOWHE5uw",
+        "image" : "https://i3.ytimg.com/vi/LqVACgmhJpE/maxresdefault.jpg",
+        "creator" : 2,
+        "detail" : {
+            "view" : 1420734,
+            "like" : 59623,
+            "dislike" : 0,
+            "date" : "03/14/2024",
+            "description" : "นั่งรถไฟธรรมดาโลกไม่จำ อย่าลืมกดติดตามและกดกระดิ่งไว้ด้วยนะครับ เดี๋ยวพลาดคลิปใหม่ๆ นะ"
+        }
+    },
+    {
+        "id" : 10,
+        "tittle" : "ทำไมเราแก้ปัญหาแก๊งคอลเซ็นเตอร์ไม่ได้สักที" ,
+        "video" : "https://www.youtube.com/embed/eA8GD0HDPG4",
+        "videoShort" : "https://i.ytimg.com/an_webp/eA8GD0HDPG4/mqdefault_6s.webp?du=3000&sqp=CO7XlrIG&rs=AOn4CLDE3q6VUbXbmpVn-KAN6W7icK_VeQ",
+        "image" : "https://i3.ytimg.com/vi/eA8GD0HDPG4/maxresdefault.jpg",
+        "creator" : 3,
+        "detail" : {
+            "view" : 262626,
+            "like" : 7823,
+            "dislike" : 0,
+            "date" : "05/15/2024",
+            "description" : "LIVE เต็มครบๆ (เฉพาะสมาชิก): "
+        }
+    },
+    {
+        "id" : 11,
+        "tittle" : "ผมประมูล Supercomputer" ,
+        "video" : "https://www.youtube.com/embed/0GhIstK9hVY",
+        "videoShort" : "https://i.ytimg.com/an_webp/0GhIstK9hVY/mqdefault_6s.webp?du=3000&sqp=CIrJlrIG&rs=AOn4CLCHt4L2-sy93VrsRACB6mGmsrOTnw",
+        "image" : "https://i3.ytimg.com/vi/0GhIstK9hVY/maxresdefault.jpg",
+        "creator" : 3,
+        "detail" : {
+            "view" : 232849,
+            "like" : 6312,
+            "dislike" : 0,
+            "date" : "05/08/2024",
+            "description" : "LIVE เต็มครบๆ (เฉพาะสมาชิก): "
+        }
+    },
+    {
+        "id" : 12,
+        "tittle" : "ปืนที่ปวดหัวที่สุดใน FPS" ,
+        "video" : "https://www.youtube.com/embed/uTnx7jwy8lM",
+        "videoShort" : "https://i.ytimg.com/an_webp/uTnx7jwy8lM/mqdefault_6s.webp?du=3000&sqp=CJXBlrIG&rs=AOn4CLBV5mXx9GnVTxWVNF3Pzb6uURPv3w",
+        "image" : "https://i3.ytimg.com/vi/uTnx7jwy8lM/maxresdefault.jpg",
+        "creator" : 3,
+        "detail" : {
+            "view" : 541256,
+            "like" : 12201,
+            "dislike" : 0,
+            "date" : "04/15/2024",
+            "description" : "LIVE เต็มครบๆ (เฉพาะสมาชิก): "
+        }
+    } 
 ]
